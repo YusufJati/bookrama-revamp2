@@ -1,6 +1,4 @@
-<?php 
-    include('header.php');
-?>
+<?php include('header.php') ?>
 
 <div class="card mt-5">
     <ul class="nav nav-pills mb-2">    

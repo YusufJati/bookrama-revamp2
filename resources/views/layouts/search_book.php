@@ -10,5 +10,5 @@
   <!-- Tampilan data -->
 </div>
 
-<!--<script src="ajax.js"></script>-->
+<script src="ajax.js"></script>
 <?php include('footer.php') ?>
